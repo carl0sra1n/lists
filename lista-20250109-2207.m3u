@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1, US || Telemundo 48 Area de la Bahía
+#EXTINF:-1, Telemundo 48 Area de la Bahía
 https://daleplay.club:443/live/FamiliaFiallo/2L9knmmq9rqu/cfc2e9aa-b682-4042-91e8-5880f93471fc.m3u
-#EXTINF:-1, MX ||  TVP Culiacán - (HD)
+#EXTINF:-1, TVP Culiacán
 https://daleplay.club:443/live/FamiliaFiallo/2L9knmmq9rqu/355e80d8-9c8f-4f0e-b7e3-f9a610e14bca.m3u
+#EXTINF:-1, Televisa Sinaloa
+https://daleplay.club:443/live/FamiliaFiallo/2L9knmmq9rqu/6ffbd523-f2db-4076-af6c-594f231c01ca.m3u
